@@ -85,3 +85,5 @@ Special thanks to:
 Give a ⭐️ if this project helped you!
 # LINKS
 - [Join my discord server](https://discord.gg/b2ejYcJjqA) 
+# NOTE
+THIS IS JUST A MODIFIED REPO OF [CLASSIC-BRAWL V20](https://github.com/PhoenixFire6934/Classic-Brawl/tree/V20), WHICH MEANS IT IS UNDER SAME LISENCE AND TERMS OF USE
