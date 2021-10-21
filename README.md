@@ -30,7 +30,7 @@ Open source Brawl Stars server emulator for version 20 of the game!
 
 
 ## Run Server
-- [Download server files](https://github.com/SB-9838/Classic-Brawl-V20/blob/main/Classic-Brawl-V20.zip?raw=True)
+- Download server files
 - On Windows:
     - Download Python 3.7 or newer version from official page.
     - Download the server and extract it.
